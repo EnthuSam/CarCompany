@@ -1,0 +1,363 @@
+[
+    [
+        "C:\\Users\\sameeksha.nath\\CarCompany\\force-app",
+        {
+            "sourcePath": "C:\\Users\\sameeksha.nath\\CarCompany\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1556543869349,
+            "changeTime": 1556543869349,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\sameeksha.nath\\CarCompany\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\sameeksha.nath\\CarCompany\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1556543869349,
+            "changeTime": 1556543869349,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\sameeksha.nath\\CarCompany\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\sameeksha.nath\\CarCompany\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1556558110536,
+            "changeTime": 1556558110536,
+            "contentHash": "1ac95324ce0f74f2726d3242841d0c1a75b55bdc"
+        }
+    ],
+    [
+        "C:\\Users\\sameeksha.nath\\CarCompany\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\sameeksha.nath\\CarCompany\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1556543869350,
+            "changeTime": 1556543869350,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\sameeksha.nath\\CarCompany\\force-app\\main\\default\\lwc",
+        {
+            "sourcePath": "C:\\Users\\sameeksha.nath\\CarCompany\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1556543869350,
+            "changeTime": 1556543869350,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\sameeksha.nath\\CarCompany",
+        {
+            "sourcePath": "C:\\Users\\sameeksha.nath\\CarCompany",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1556544413669,
+            "changeTime": 1556544413669,
+            "contentHash": "806ba1a6fdbf66cfb747163cfbc2797dba062b4e",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\sameeksha.nath\\CarCompany\\force-app\\main\\default\\objects\\Car__c\\Car__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\sameeksha.nath\\CarCompany\\force-app\\main\\default\\objects\\Car__c\\Car__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2045,
+            "modifiedTime": 1556558110438,
+            "changeTime": 1556558110438,
+            "contentHash": "7d7f2afa6be62588a8f8e70dbb27aa86e3f5396e"
+        }
+    ],
+    [
+        "C:\\Users\\sameeksha.nath\\CarCompany\\force-app\\main\\default\\objects\\Car__c\\fields\\Manufacturing_Year__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\sameeksha.nath\\CarCompany\\force-app\\main\\default\\objects\\Car__c\\fields\\Manufacturing_Year__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 382,
+            "modifiedTime": 1556558110443,
+            "changeTime": 1556558110443,
+            "contentHash": "33709926d1ff6b750aea5844dbad45a024a4b3f1"
+        }
+    ],
+    [
+        "C:\\Users\\sameeksha.nath\\CarCompany\\force-app\\main\\default\\objects\\Car__c\\fields\\Model__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\sameeksha.nath\\CarCompany\\force-app\\main\\default\\objects\\Car__c\\fields\\Model__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 356,
+            "modifiedTime": 1556558110447,
+            "changeTime": 1556558110447,
+            "contentHash": "45977849131666f03dc5addaffbbd253fc289898"
+        }
+    ],
+    [
+        "C:\\Users\\sameeksha.nath\\CarCompany\\force-app\\main\\default\\objects\\Car__c\\listViews\\All.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\sameeksha.nath\\CarCompany\\force-app\\main\\default\\objects\\Car__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1556558110450,
+            "changeTime": 1556558110450,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd"
+        }
+    ],
+    [
+        "C:\\Users\\sameeksha.nath\\CarCompany\\force-app\\main\\default\\layouts\\Car__c-Car Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\sameeksha.nath\\CarCompany\\force-app\\main\\default\\layouts\\Car__c-Car Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2937,
+            "modifiedTime": 1556558110478,
+            "changeTime": 1556558110478,
+            "contentHash": "079860bf748004b784ec75d69fb79284130ccd2a"
+        }
+    ],
+    [
+        "C:\\Users\\sameeksha.nath\\CarCompany\\force-app\\main\\default\\flexipages\\Cars_App_UtilityBar.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\sameeksha.nath\\CarCompany\\force-app\\main\\default\\flexipages\\Cars_App_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 503,
+            "modifiedTime": 1556558110508,
+            "changeTime": 1556558110508,
+            "contentHash": "ff57c6ffdd62d0ff57eb863fd6ec9ebf67e7dd27"
+        }
+    ],
+    [
+        "C:\\Users\\sameeksha.nath\\CarCompany\\force-app\\main\\default\\tabs\\Car__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\sameeksha.nath\\CarCompany\\force-app\\main\\default\\tabs\\Car__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 220,
+            "modifiedTime": 1556558110516,
+            "changeTime": 1556558110516,
+            "contentHash": "8f92a3af7f3640e1db0b71f01dd8e122d6a33d98"
+        }
+    ],
+    [
+        "C:\\Users\\sameeksha.nath\\CarCompany\\force-app\\main\\default\\applications\\Cars_App.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\sameeksha.nath\\CarCompany\\force-app\\main\\default\\applications\\Cars_App.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 596,
+            "modifiedTime": 1556558110524,
+            "changeTime": 1556558110524,
+            "contentHash": "659994a87a1d18ab00e899e06fdfa207943a4ed3"
+        }
+    ],
+    [
+        "C:\\Users\\sameeksha.nath\\CarCompany\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\sameeksha.nath\\CarCompany\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5140,
+            "modifiedTime": 1556558110544,
+            "changeTime": 1556558110544,
+            "contentHash": "854770b4f2f459909152f799fb20ea3de62913e5"
+        }
+    ],
+    [
+        "C:\\Users\\sameeksha.nath\\CarCompany\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\sameeksha.nath\\CarCompany\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5478,
+            "modifiedTime": 1556558110564,
+            "changeTime": 1556558110564,
+            "contentHash": "22690db7184edcde33640689245df3c2926a7707"
+        }
+    ],
+    [
+        "C:\\Users\\sameeksha.nath\\CarCompany\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\sameeksha.nath\\CarCompany\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5140,
+            "modifiedTime": 1556558110582,
+            "changeTime": 1556558110582,
+            "contentHash": "854770b4f2f459909152f799fb20ea3de62913e5"
+        }
+    ],
+    [
+        "C:\\Users\\sameeksha.nath\\CarCompany\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\sameeksha.nath\\CarCompany\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 19611,
+            "modifiedTime": 1556558110620,
+            "changeTime": 1556558110620,
+            "contentHash": "51018d647aa30bbc0eb94b79b04ffcd6066e45ce"
+        }
+    ],
+    [
+        "C:\\Users\\sameeksha.nath\\CarCompany\\force-app\\main\\default\\objects\\Car__c",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\sameeksha.nath\\CarCompany\\force-app\\main\\default\\objects\\Car__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1556558110447,
+            "changeTime": 1556558110447,
+            "contentHash": "c99d4e2dd72a0687e6b811ce2b00bc8d8fd196f4"
+        }
+    ],
+    [
+        "C:\\Users\\sameeksha.nath\\CarCompany\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\sameeksha.nath\\CarCompany\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1556558110430,
+            "changeTime": 1556558110430,
+            "contentHash": "fab8657299533bb572d8ced269189fc62ce36b59"
+        }
+    ],
+    [
+        "C:\\Users\\sameeksha.nath\\CarCompany\\force-app\\main\\default\\objects\\Car__c\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\sameeksha.nath\\CarCompany\\force-app\\main\\default\\objects\\Car__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1556558110445,
+            "changeTime": 1556558110445,
+            "contentHash": "e8a50bd1da3c837928bb9db05c93695af5dc51b5"
+        }
+    ],
+    [
+        "C:\\Users\\sameeksha.nath\\CarCompany\\force-app\\main\\default\\objects\\Car__c\\listViews",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\sameeksha.nath\\CarCompany\\force-app\\main\\default\\objects\\Car__c\\listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1556558110449,
+            "changeTime": 1556558110449,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6"
+        }
+    ],
+    [
+        "C:\\Users\\sameeksha.nath\\CarCompany\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\sameeksha.nath\\CarCompany\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1556558110476,
+            "changeTime": 1556558110476,
+            "contentHash": "d7c50248a551d00de76f1dae4a790ddf93f02739"
+        }
+    ],
+    [
+        "C:\\Users\\sameeksha.nath\\CarCompany\\force-app\\main\\default\\flexipages",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\sameeksha.nath\\CarCompany\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1556558110508,
+            "changeTime": 1556558110508,
+            "contentHash": "05d89fb9e90e78d6c1d389c2a281ebcf3f0b3b8e"
+        }
+    ],
+    [
+        "C:\\Users\\sameeksha.nath\\CarCompany\\force-app\\main\\default\\tabs",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\sameeksha.nath\\CarCompany\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1556558110512,
+            "changeTime": 1556558110512,
+            "contentHash": "80540656f26199b8105ce94211532b090ed99962"
+        }
+    ],
+    [
+        "C:\\Users\\sameeksha.nath\\CarCompany\\force-app\\main\\default\\applications",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\sameeksha.nath\\CarCompany\\force-app\\main\\default\\applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1556558110520,
+            "changeTime": 1556558110520,
+            "contentHash": "8ef7269f26c27a2aaf71017819cf117435546e88"
+        }
+    ],
+    [
+        "C:\\Users\\sameeksha.nath\\CarCompany\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\sameeksha.nath\\CarCompany\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1556558110617,
+            "changeTime": 1556558110617,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ]
+]
